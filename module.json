@@ -3,7 +3,7 @@
   "name": "accounting-time-tracking-api",
   "display_name": "Accounting Time Tracking API",
   "description": "HTTP API adapter for Accounting Time Tracking.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\TimeTrackingApi\\TimeTrackingApiServiceProvider",
   "requires": {
